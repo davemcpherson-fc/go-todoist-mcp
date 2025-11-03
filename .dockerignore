@@ -1,0 +1,9 @@
+# Ignore git repository files
+.git
+.gitignore
+
+# Ignore local binary (if any)
+go-todoist-mcp
+
+# Ignore local log files
+*.log
