@@ -14,8 +14,9 @@ This is a local microservice (MCP) that acts as a wrapper for the Todoist v2 RES
 
 ## Configuration
 
-1.  Open the `config.yaml` file in this directory.
-2.  Replace the placeholder `REPLACE_WITH_YOUR_TODOIST_API_TOKEN` with your actual Todoist API token.
+1.  Duplicate `config_defaults.yaml` and rename to `config.yaml' in this directory.
+2.  Open the `config.yaml` file.
+3.  Replace the placeholder `REPLACE_WITH_YOUR_TODOIST_API_TOKEN` with your actual Todoist API token.
 
 ```yaml
 # config.yaml
