@@ -20,3 +20,6 @@ go.work.sum
 
 # Local binary
 go-todoist-mcp
+
+# Config files with sensitive data
+config.yaml

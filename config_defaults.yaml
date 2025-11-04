@@ -1,0 +1,10 @@
+# Todoist API Configuration
+# Rename this file to config.yaml and set your Todoist API token
+todoist:
+  
+  api_token: "YOU_TOKEN_HERE"
+  base_url: "https://api.todoist.com/rest/v2"
+
+# Service Configuration
+server:
+  port: "8080"
